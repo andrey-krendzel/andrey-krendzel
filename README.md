@@ -3,7 +3,9 @@
 I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia.
 
 🔭 Studied Java, Spring Boot, SQL, PostGre
+
 🌱 Learning React, Redux, NodeJS, MongoDB, React Native
+
 ⚡ Database ER, Logical and Physical Design
 
 
