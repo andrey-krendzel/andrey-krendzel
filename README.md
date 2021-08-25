@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome! 👋
+
+I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia.
+
+🔭 Studied Java, Spring Boot, SQL, PostGre
+🌱 Learning React, Redux, NodeJS, MongoDB, React Native
+⚡ Database ER, Logical and Physical Design
+
 
 <!--
 **andrey-krendzel/andrey-krendzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
