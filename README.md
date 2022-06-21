@@ -6,7 +6,7 @@ I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia
 
 🔭 Previously: Java Spring Boot, SQL
 
-⚡ Database ER, Logical and Physical Design
+<!-- ⚡ Database ER, Logical and Physical Design -->
 
 
 <!--
