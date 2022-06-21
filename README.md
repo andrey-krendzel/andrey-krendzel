@@ -2,9 +2,9 @@
 
 I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia.
 
-🌱 Interested in React, Redux, NodeJS, MongoDB, React Native
+🌱 Currently experimenting with: React Node MongoDB Redux TypeScript React Native
 
-🔭 Learning Java, Spring Boot, SQL, PostGre
+🔭 Previously used React, Java Spring Boot, SQL
 
 ⚡ Database ER, Logical and Physical Design
 
