@@ -6,6 +6,8 @@ I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia
 
 🔭 Previously: React + Java Spring Boot, SQL
 
+⚡ Terminal & Linux. Modifying .conf files as a hobby. Vim not touching it unfortunately. 
+
 <!-- ⚡ Database ER, Logical and Physical Design -->
 
 
