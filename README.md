@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I'm an aspiring full-stack developer, studying BITE (Business IT) at Haaga-Helia.
+Full-stack developer, graduated BITE from Haaga-Helia.
 
 🌱 Current: React Node MongoDB Redux TypeScript React Native
 
