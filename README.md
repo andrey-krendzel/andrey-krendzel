@@ -2,11 +2,11 @@
 
 Full-stack developer, graduated BITE from Haaga-Helia.
 
-🌱 Current: React Node MongoDB Redux TypeScript React Native
+🌱 Stack 1: React Node MongoDB Redux TypeScript 
 
-🔭 Previously: React + Java Spring Boot, SQL
+🔭 Stack 2: React + Java Spring Boot, SQL
 
-⚡ Terminal & Linux. Modifying .conf files as a hobby. Vim not touching it unfortunately. 
+⚡ Other: React Native, Linux/Terminal, Database design, jest/supertest
 
 <!-- ⚡ Database ER, Logical and Physical Design -->
 
