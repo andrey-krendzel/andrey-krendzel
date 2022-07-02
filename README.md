@@ -6,7 +6,7 @@ Full-stack developer, graduated BITE from Haaga-Helia.
 
 🔭 Stack 2: React + Java Spring Boot, SQL
 
-⚡ Other: React Native, Linux/Terminal, Database design, jest/supertest
+⚡ Other: React Native, Linux/Terminal, Database design, jest/supertest/Cypress
 
 <!-- ⚡ Database ER, Logical and Physical Design -->
 
