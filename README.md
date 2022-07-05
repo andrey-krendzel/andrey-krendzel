@@ -2,7 +2,7 @@
 
 Full-stack developer, graduated BITE from Haaga-Helia.
 
-🌱 Stack 1: React Node MongoDB ~~Redux~~ TypeScript 
+🌱 Stack 1: React Node MongoDB Redux TypeScript 
 
 🔭 Stack 2: React + Java Spring Boot, SQL
 
